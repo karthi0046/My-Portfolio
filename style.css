@@ -803,7 +803,7 @@ footer >.footer > p{
     }
 
     #projects>.container>.card {
-        height: 150px;
+        height: 170px;
         width: 270px;
         overflow: hidden;
         position: relative;
@@ -812,12 +812,13 @@ footer >.footer > p{
 
     #projects>.container>.card>.card-img {
         border-radius: 10px;
-        height: 150px;
+        height: 170px;
         width: 270px;
     }
 
     #projects>.container>.card>.card-body>p {
         font-size: 12px;
+         padding-bottom: 5px;
     }
 
     #projects>.container>.card>.card-body>a {
