@@ -799,11 +799,11 @@ footer >.footer > p{
 
         display: flex;
         flex-direction: column;
-        gap: 15px;
+        gap: 20px;
     }
 
     #projects>.container>.card {
-        height: 170px;
+        height: 190px;
         width: 270px;
         overflow: hidden;
         position: relative;
@@ -812,7 +812,7 @@ footer >.footer > p{
 
     #projects>.container>.card>.card-img {
         border-radius: 10px;
-        height: 170px;
+        height: 190px;
         width: 270px;
     }
 
