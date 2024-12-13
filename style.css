@@ -821,7 +821,7 @@ footer >.footer > p{
     }
 
     #projects>.container>.card>.card-body>p {
-        font-size: 9px;
+        font-size: 12px;
         padding-bottom: 5px;
     }
 
@@ -830,7 +830,7 @@ footer >.footer > p{
         font-size: 13px;
     }
     #projects>.container>.card>.card-body>h3{
-        font-size: 15px;
+        font-size: 16px;
         
     }
 
